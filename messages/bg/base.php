@@ -44,4 +44,5 @@ return [
     'Within this configuration you can choose between different sms-providers and configurate these. You need to edit your account information for the chosen provider properly to have the sms-functionality work properly.' => 'В тази конфигурация можете да избирате между различни доставчици на SMS и да ги конфигурирате. Трябва да редактирате правилно информацията за вашия акаунт за избрания доставчик, за да функционира правилно SMS функционалността.',
     'API Key' => '',
     'API key' => '',
+    'Back' => '',
 ];

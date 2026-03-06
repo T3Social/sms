@@ -9,6 +9,7 @@ return [
     'API key' => '',
     'Allow Messages > 160 characters (default: not allowed -> currently not supported, as characters are limited by the view)' => '',
     'An unknown error occurred.' => '',
+    'Back' => '',
     'Body too long.' => '',
     'Body too too short.' => '',
     'Characters left:' => '',

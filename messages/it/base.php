@@ -45,4 +45,5 @@ SMS con testo di messaggio identico è stato inviato troppo spesso negli ultimi 
     'Username' => 'Username',
     'Within this configuration you can choose between different sms-providers and configurate these. You need to edit your account information for the chosen provider properly to have the sms-functionality work properly.' => 'All\'interno di questa configurazione puoi scegliere tra diversi provider sms e configurarli. È necessario impostare correttamente le informazioni del proprio account del fornitore scelto per far funzionare correttamente la funzione sms.',
     'API Key' => '',
+    'Back' => '',
 ];

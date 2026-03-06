@@ -28,6 +28,7 @@ return [
     'Username' => 'Tên truy cập',
     'API Key' => '',
     'API key' => '',
+    'Back' => '',
     'SMS has been rejected/couldn\'t be delivered.' => '',
     'SMS has been successfully sent.' => '',
     'SMS is lacking indication of price (premium number ads).' => '',

@@ -45,4 +45,5 @@ SMS s istim tekstom poruke prečesto je poslan u posljednjih 180 sekundi.',
     'Within this configuration you can choose between different sms-providers and configurate these. You need to edit your account information for the chosen provider properly to have the sms-functionality work properly.' => 'Unutar ove konfiguracije možete birati između različitih SMS usluga i konfigurirati ih. Morate urediti podatke o vašem računu za odabranog pružatelja pravilno kako bi funkcionalnost sms funkcionirala ispravno.',
     'API Key' => '',
     'API key' => '',
+    'Back' => '',
 ];

@@ -21,6 +21,7 @@ return [
     'API Key' => '',
     'API key' => '',
     'Allow Messages > 160 characters (default: not allowed -> currently not supported, as characters are limited by the view)' => '',
+    'Back' => '',
     'Choose Provider' => '',
     'Could not open connection to SMS-Provider, please contact an administrator.' => '',
     'Gateway Number' => '',

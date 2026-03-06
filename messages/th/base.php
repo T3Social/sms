@@ -44,4 +44,5 @@ return [
     'Username' => 'ชื่อผู้ใช้',
     'Within this configuration you can choose between different sms-providers and configurate these. You need to edit your account information for the chosen provider properly to have the sms-functionality work properly.' => 'ภายในการกำหนดค่านี้ คุณสามารถเลือกระหว่างผู้ให้บริการ SMS ต่างๆ และกำหนดค่าเหล่านี้ได้ คุณต้องแก้ไขข้อมูลบัญชีของคุณสำหรับผู้ให้บริการที่เลือกอย่างถูกต้องเพื่อให้ฟังก์ชันการทำงานของ SMS ทำงานได้อย่างถูกต้อง',
     'API Key' => '',
+    'Back' => '',
 ];
