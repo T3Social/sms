@@ -1,13 +1,10 @@
 Changelog
 =========
 
-0.9.0 (Unreleased)
------------------------
+0.9.0 (July 8, 2026)
+--------------------
 - Enh #29: Changes for HumHub version 1.18 by rector
 - Fix #31: Remove deprecations
-
-0.8.1 (Unreleased)
------------------------
 - Fix #27: Replace deprecated module setting methods
 
 0.8.0 (August 28, 2025)
